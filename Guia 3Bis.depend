@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681513930 source:d:\programación\programación y laboratorio i\tp n°3 bis\guia 3bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
